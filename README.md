@@ -17,4 +17,4 @@
 - 圆形头像 <https://github.com/daoxi365/daoxi365-static/blob/master/blog-site/favicon.png?raw=true>
 - 正方形 obsizu 头像 <https://github.com/daoxi365/daoxi365-static/blob/master/obsizu/avatar.jpg?raw=true>
 - 圆形 obsizu 头像 <https://github.com/daoxi365/daoxi365-static/blob/master/obsizu/obsizu.png?raw=true>
-
+- 项目头图 <https://github.com/daoxi365/daoxi365-static/blob/master/project.png?raw=true>
