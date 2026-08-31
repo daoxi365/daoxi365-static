@@ -9,4 +9,12 @@
 - <https://jsdelivr.topthink.com>
 - <https://cdn.osyb.cn>
 - <https://cdn.bring.cool>
-- <https://cdn.jsdmirror.com/>
+- <https://cdn.jsdmirror.com>
+
+常用图片链接：
+
+- 正方形头像 <https://github.com/daoxi365/daoxi365-static/blob/master/blog-site/avatar.jpg?raw=true>
+- 圆形头像 <https://github.com/daoxi365/daoxi365-static/blob/master/blog-site/favicon.png?raw=true>
+- 正方形 obsizu 头像 <https://github.com/daoxi365/daoxi365-static/blob/master/obsizu/avatar.jpg?raw=true>
+- 圆形 obsizu 头像 <https://github.com/daoxi365/daoxi365-static/blob/master/obsizu/obsizu.png?raw=true>
+
